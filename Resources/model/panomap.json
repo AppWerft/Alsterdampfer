@@ -1,0 +1,233 @@
+[
+	{
+		"name": "Eis Warnecke, Saarlandstra\u00dfe 1",
+		"image": "panos\/cafewarnecke2_250.jpg",
+		"gps": "53.585387,10.033306",
+		"phi": "130"
+	}, {
+		"name": "Bootsvermietung Dornheim (Eingang)",
+		"image": "panos\/dornheim\/dornheim1_250.jpg",
+		"gps": "53.5848,10.03085",
+		"phi": "300"
+	}, {
+		"name": "Bootsvermietung Dornheim (linker Steg, au\u00dfen)",
+		"image": "panos\/dornheim\/dornheim3_250.jpg",
+		"gps": "53.584617,10.030146",
+		"date": "09.05.2008 13:55 Uhr",
+		"photograph": "Rainer Schleevoigt",
+		"maschine": "FinePix S5800 S800",
+		"phi": "220"
+	}, {
+		"name": "Bootsvermietung Dornheim (am Bug)",
+		"image": "panos\/dornheim\/dornheim4_250.jpg",
+		"gps": "53.584747,10.03058",
+		"phi": "310"
+	}, {
+		"name": "Bootsvermietung Dornheim (linker Steg, innen)",
+		"image": "panos\/dornheim\/dornheim6_250.jpg",
+		"gps": "53.58468,10.030257",
+		"phi": "310"
+	}, {
+		"name": "Bootsvermietung Dornheim (Mitte)",
+		"image": "panos\/dornheim\/dornheim7_250.jpg",
+		"gps": "53.58460,10.030528",
+		"phi": "310"
+	}, {
+		"name": "Poppenb\u00fcttler Schleuse",
+		"image": "panos\/schleusepoppen\/schleusepoppen1_250.jpg",
+		"gps": "53.657463,10.087942",
+		"phi": "180"
+	}, {
+		"name": "Poppenb\u00fcttler Schleuse",
+		"image": "panos\/schleusepoppen\/schleusepoppen2_250.jpg",
+		"gps": "53.657523,10.087681",
+		"phi": "180"
+	}, {
+		"name": "Liebesinsel Mitte",
+		"image": "panos\/liebesinsel\/liebesinsel10_250.jpg",
+		"gps": "53.591829,10.024392",
+		"phi": "180"
+	}, {
+		"name": "Bootsverleih auf der Liebesinsel I",
+		"image": "panos\/liebesinsel\/liebesinsel9_250.jpg",
+		"gps": "53.591696,10.024699",
+		"phi": "180"
+	}, {
+		"name": "Liebesinsel Westzipfel",
+		"image": "panos\/liebesinsel\/liebesinsel1_250.jpg",
+		"gps": "53.592084,10.02392",
+		"phi": "260"
+	}, {
+		"name": "Liebesinsel Nordwestseite",
+		"image": "panos\/liebesinsel\/liebesinsel2_250.jpg",
+		"gps": "53.592089,10.024180",
+		"phi": "0"
+	}, {
+		"name": "Liebesinsel Anleger",
+		"image": "panos\/liebesinsel\/liebesinsel3_250.jpg",
+		"gps": "53.592055,10.0244412",
+		"phi": "80"
+	}, {
+		"name": "Liebesinsel Anleger",
+		"image": "panos\/liebesinsel\/liebesinsel4_250.jpg",
+		"gps": "53.592011,10.024648",
+		"phi": "100"
+	}, {
+		"name": "Liebesinsel Ostzipfel",
+		"image": "panos\/liebesinsel\/liebesinsel5_250.jpg",
+		"gps": "53.591805,10.024917",
+		"phi": "80"
+	}, {
+		"name": "Liebesinsel VII",
+		"image": "panos\/liebesinsel\/liebesinsel7_250.jpg",
+		"gps": "53.591748,10.024713",
+		"phi": "80"
+	}, {
+		"name": "Ohlsdorfer Schleuse (links)",
+		"image": "panos\/ohlsdorferschleuselinks250.jpg",
+		"gps": "53.623083,10.028747",
+		"date": "26.04.2008 14:12 Uhr",
+		"photograph": "Rainer Schleevoigt",
+		"maschine": "FinePix S5800 S800",
+		"phi": "180"
+	}, {
+		"name": "Br\u00fccke am Winterhuder Kai",
+		"image": "panos\/brueckewinterhuderkai250.jpg",
+		"gps": "53.594426,9.991216",
+		"date": "26.04.2008 10:12 Uhr",
+		"photograph": "Rainer Schleevoigt",
+		"maschine": "FinePix S5800 S800",
+		"phi": "350"
+	}, {
+		"name": "Fu\u00dfg\u00e4ngerbr\u00fccke beim Bootshaus Barmeier",
+		"image": "panos\/fussgaengerbrueckebootshausbarmeier250.jpg",
+		"gps": "53.596718,9.989588",
+		"date": "26.04.2008 12:33 Uhr",
+		"photograph": "Rainer Schleevoigt",
+		"maschine": "FinePix S5800 S800",
+		"phi": "350"
+	}, {
+		"name": "Planschbecken beim Bootshaus Barmeier",
+		"image": "panos\/planschbeckenbootshausbarmeier250.jpg",
+		"gps": "53.596789,9.989174",
+		"date": "26.04.2008 12:46 Uhr",
+		"photograph": "Rainer Schleevoigt",
+		"maschine": "FinePix S5800 S800",
+		"phi": "350"
+	}, {
+		"name": "Uhlenhorster Br\u00fccke (Sierichstra\u00dfe Westseite)",
+		"image": "panos\/sierichstrassenbrueckewest250.jpg",
+		"gps": "53.572801,10.013125",
+		"phi": "260"
+	}, {
+		"name": "Br\u00fccke am Winterhuder F\u00e4hrhaus (S\u00fcd)",
+		"image": "panos\/brueckewinterhuderfaehrhaussued250.jpg",
+		"gps": "53.593017,9.993757",
+		"phi": "180"
+	}, {
+		"name": "Streekbr\u00fccke",
+		"image": "panos\/streekbruecke250.jpg",
+		"gps": "53.583734,9.99548",
+		"phi": "10"
+	}, {
+		"name": "Eichenpark",
+		"image": "panos\/eichenpark250.jpg",
+		"gps": "53.580234,9.996438",
+		"phi": "30"
+	}, {
+		"name": "Krugkoppelbr\u00fccke (S\u00fcd)",
+		"image": "panos\/krugkoppelsued250.jpg",
+		"gps": "53.579838,9.999212",
+		"phi": "30"
+	}, {
+		"name": "Krugkoppel (Nord)",
+		"image": "panos\/krugkoppelnord250.jpg",
+		"gps": "53.579888,9.998899",
+		"phi": "260"
+	}, {
+		"name": "Anleger Krugkoppel (Nord)",
+		"image": "panos\/anlegerkrugkoppelnord250.jpg",
+		"gps": "53.579921,9.998500",
+		"phi": "90"
+	}, {
+		"name": "Sierichstra\u00dfenbr\u00fccke(Ost)",
+		"image": "panos\/sierichstrassenbrueckeost250.jpg",
+		"gps": "53.583376,10.005827",
+		"phi": "350"
+	}, {
+		"name": "Moorfuhrtwegbr\u00fccke (Goldbekhaus)",
+		"image": "panos\/moorfuhrtwegbruecke250.jpg",
+		"gps": "53.58460,10.009709",
+		"phi": "350"
+	}, {
+		"name": "Moorfuhrtwegbr\u00fccke (Ostseite)",
+		"image": "panos\/moorfuhrtwegbrueckeost250.jpg",
+		"gps": "53.584683,10.009861",
+		"phi": "350"
+	}, {
+		"name": "Leinpfadbr\u00fccke (Westseite)",
+		"image": "panos\/leinpfadbrueckewest250.jpg",
+		"gps": "53.592769,9.994784",
+		"phi": "200"
+	}, {
+		"name": "Alsterperle Uferseite",
+		"image": "panos\/alsterperleuferseite250.jpg",
+		"gps": "53.567888,10.015123",
+		"phi": "240"
+	}, {
+		"name": "Br\u00fccke Verbindungskanal Goldbek- \/ Osterbekkanal",
+		"image": "panos\/wiesendammsaarlandstrassenbruecke250.jpg",
+		"gps": "53.587787,10.035353",
+		"phi": "50"
+	}, {
+		"name": "Br\u00fccke an der Alstercity (Grevepalast)",
+		"image": "panos\/alstercitybruecke250.jpg",
+		"gps": "53.58427,10.02809",
+		"phi": "170"
+	}, {
+		"name": "Wiesendammbr\u00fccke",
+		"image": "panos\/wiesendammbruecke250.jpg",
+		"gps": "53.589409,10.020504",
+		"phi": "1"
+	}, {
+		"name": "Wiesendamm \/ Goldbekufer",
+		"image": "panos\/wiesendammbrueckegoldbekufer250.jpg",
+		"gps": "53.589101,10.02070",
+		"phi": "34"
+	}, {
+		"name": "Liebesinsel im Hamburger Stadtparksee",
+		"image": "panos\/liebesinelpanorama300.jpg",
+		"gps": "53.5916,10.0243",
+		"phi": "30"
+	}, {
+		"name": "Alsterblick\/Sch\u00f6ne Aussicht",
+		"image": "panos\/alsterkinderwagen.pano.jpg",
+		"gps": "53.5695,10.0101",
+		"phi": "180"
+	}, {
+		"name": "Uhlenhorster F\u00e4hrhaus",
+		"image": "panos\/uhlenhorsterfaehrhaus.pano.jpg",
+		"gps": "53.5742,10.0067",
+		"phi": "320"
+	}, {
+		"name": "Hamburg, Hofweg\/M\u00fchlenkamp",
+		"image": "panos\/hofwegmuehlenkamp250.jpg",
+		"gps": "53.5793,10.0134",
+		"phi": "270"
+	}, {
+		"name": "Moschee an der Alster",
+		"image": "panos\/alstermoschee250.jpg",
+		"gps": "53.5744,10.0077",
+		"phi": "90"
+	}, {
+		"name": "Bachstra\u00dfenbr\u00fccke",
+		"image": "panos\/bachstrassenbruecke250.jpg",
+		"gps": "53.58198,10.019701",
+		"phi": "30"
+	}, {
+		"name": "Alster - Langer Zug",
+		"image": "panos\/alsterlangerzug250.jpg",
+		"gps": "53.577406,10.010046",
+		"phi": "80"
+	}
+]
